@@ -1,9 +1,7 @@
-<h1 align=”center”> It-s Taylan</h1>
-- 👋 Hi, I’m @Davidx21. I love Python, I mostly use Python for everything than I do.
-- 👀 I’m interested in web web development, data analysis and creative things as videos games and comics.
-- 🌱 I’m woking with Python, Django(Amazing), JavaScrip, Vue.js, HTML/CSS and Bootstrap.
-- ✨ I’m currently learning Dart, Vue.js(More professionally) and Godot(Hobby)
-- 📫 I want to take new challenges and improve my skills
+<h1 align=”center”> Hi,I’m Dave </h1>
+<h3 align=”center”> Hakuna Matata </h3>
+
+
 
 Welcome
 <!---
